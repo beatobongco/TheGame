@@ -36,6 +36,8 @@ Hero also encounters some glyphs which point left. They are the opposite color o
 
 Levels introduce some kind of new mechanic and/or enemy. They can be permanent or temporary but must not affect previous levels, ever. Items that were acquired from past levels may or may not carry over to the next level depending on the current level's developer's discretion. Once an item is not carried over, it is lost forever though a "version 2" of the item may appear in later levels. This is to keep the game's continuity. 
 
+Keep in mind these are just guides, there is all the room in the world for change.
+
  1. Walk hero from left to right into door.
  2. Jump hero over obstacle.
  2. Crouch.
