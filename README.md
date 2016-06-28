@@ -8,8 +8,8 @@ Assets can be updated at any stage of the game but they may not affect previous 
 
 E.g. 
 
-Level 1: Characters are represented by stick figures.
-Level 100: Characters are 2d sprites. 
+* Level 1: Characters are represented by stick figures.
+* Level 100: Characters are 2d sprites. 
 
 Level 1 must remain as stick figures.
 
