@@ -1,11 +1,12 @@
 {
   "name": "the-game",
-  "description": "The Game",
+  "description": "Progressively generated platformer",
   "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:beatobongco/TheGame.git"
   },
+  "private": true,
   "scripts": {
     "start": "brunch watch --server",
     "prod": "brunch build --production"
