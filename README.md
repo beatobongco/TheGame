@@ -1,4 +1,4 @@
-# The Game
+# ![The Game](logo.png)
 
 Progressively generated game. Each level adds a small new feature or enemy. The objective of each level is to reach the door to the next level. The Game can be played at any stage of development because each level is a finished product. If the next level has not been created the door will show up as locked.
 
@@ -6,10 +6,10 @@ Players can load progress with an old-school passcode system.
 
 Assets can be updated at any stage of the game but they may not affect previous levels.
 
-E.g. 
+E.g.
 
 * Level 1: Characters are represented by stick figures.
-* Level 100: Characters are 2d sprites. 
+* Level 100: Characters are 2d sprites.
 
 Level 1 must remain as stick figures.
 
@@ -21,7 +21,7 @@ The Game is set in The World, a heaven-like plane with simple objects and entiti
 
 As Haro moves to the right, tiny bits of the world's vague lore is revealed. The world starts out minimalist and well-lighted and very slowly becomes darker and more intricate. Soon, Haro encounters foot soldiers who attack him on sight. These soliders become more and more corrupted by darkness as he pushes right. Hero cannot re-enter doors to his left, as they have been consumed by the Darkness.
 
-Haro periodically encounters Rivald, who communicates through miming a few actions. On their first encounter, Rivald points to the left side of the screen and draws his sword to fight Haro. Once defeated, Rivald retreats to the right side. 
+Haro periodically encounters Rivald, who communicates through miming a few actions. On their first encounter, Rivald points to the left side of the screen and draws his sword to fight Haro. Once defeated, Rivald retreats to the right side.
 
 Hero also encounters some glyphs which point left. They are the opposite color of the ones in his house. He has the option to interact with them, which makes them fade out.
 
@@ -34,7 +34,7 @@ Hero also encounters some glyphs which point left. They are the opposite color o
 
 ## Levels
 
-Levels introduce some kind of new mechanic and/or enemy. They can be permanent or temporary but must not affect previous levels, ever. Items that were acquired from past levels may or may not carry over to the next level depending on the current level's developer's discretion. Once an item is not carried over, it is lost forever though a "version 2" of the item may appear in later levels. This is to keep the game's continuity. 
+Levels introduce some kind of new mechanic and/or enemy. They can be permanent or temporary but must not affect previous levels, ever. Items that were acquired from past levels may or may not carry over to the next level depending on the current level's developer's discretion. Once an item is not carried over, it is lost forever though a "version 2" of the item may appear in later levels. This is to keep the game's continuity.
 
 Keep in mind these are just guides, there is all the room in the world for change.
 
