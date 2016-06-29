@@ -12,6 +12,9 @@
   <div id="game"></div>
   <script src="/vendor.js"></script>
   <script src="/game.js"></script>
-  <script>require('game/initialize')</script>
+  <script src="//use.typekit.net/bkd6oqp.js"></script>
+  <script>try{Typekit.load({
+    active: function () { require('game/initialize'); }
+  });}catch(e){}</script>
 </body>
 </html>
