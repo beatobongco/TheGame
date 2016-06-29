@@ -40,54 +40,62 @@ Keep in mind these are just guides, there is all the room in the world for chang
 
  1. Walk hero from left to right into door.
  2. Jump hero over obstacle.
- 2. Crouch.
- 3. Destory an obstacle with a light attack.
- 4. Destroy an obstacle with a jumping light attack.
- 4. Perform a crouch attack.
- 5. Avoid falling into spikes.
- 6. Pick up a health powerup.
- 7. Perform a ranged attack to clear an obstacle.
- 7. Perform a crouching ranged attack.
- 8. Defeat an enemy that moves from left to right and damages on collision.
- 9. Defeat an enemy that moves from left to right and shoots on sight.
- 10. Defeat a small number of both enemies.
- 10. Defeat a boss with a simple pattern of 1 heavy attack.
- 11. Perform a heavy attack.
- 12. Perform a heavy jumping attack.
- 13. Pick up a potion and use it.
- 14. Defeat an enemy immune to ranged attack.
- 15. Defeat an enemy immune to melee attacks.
- 16. Defeat an enemy who can only be damaged by heavy attacks.
- 17. Charge your ranged weapon and shoot an obstacle.
- 18. Defeat enemy who can only be beaten by charge attack.
- 19. Beat a couple of copies of the previous 3 enemies.
- 20. Beat a room filled with all regular enemies.
- 21. Obtain a shield.
- 22. Block a melee attack.
- 23. Block a ranged attack.
- 24. Fight an enemy that has high damage but can be blocked but cannot be countered.
- 25. Fight an enemy whose heavy attack cannot be blocked.
- 26. Encounter a boss who can counter your melee attacks.
- 27. Encounter his second form that can reflect ranged attacks.
- 27. Counter a melee attack.
- 28. Reflect a ranged attack.
- 29. Encounter enemies who explode when they get too close.
- 30. Encounter ranged enemies who can reflect ranged attacks.
- 31. Encounter previous enemies together.
- 32. Obtain a stronger weapon.
- 32. Encounter a mix of previous 4 enemies.
- 33. Encounter a boss who teleports behind you and stabs your back.
- 34. Learn backstab.
- 35. Encounter an enemy you can only defeat by backstabbing.
- 36. Learn firebolt.
- 37. Encounter enemies who can only be killed by magic.
- 38. Encounter a mix of previous 2 enemies.
- 39. Learn to wall jump.
- 40. Encounter an area with ranged enemies where you must wall jump.
- 41. Learn to shoot ranged weapon while sliding down on wall. (Can charge, can use magic)
- 43. Encounter a boss you must fight while jumping between walls. Backstab also does a lot of damage.
- 44. Obtain a suit of armor that makes you slower but immune to light attacks. You can equip/remove this at will.
- 45. Encounter enemies who try to sneak up and backstab you (through your armor)
- 46. Clear a room full of basic ranged and melee enemies but also with backstabby enemies.
- 47. Encounter your rival: with all your skills but repetitive attack patterns. He also has a combo which is performed by mixing melee and ranged buttons with arrow keys. He has a 2 hit combo.
- 48. Obtain the 2 hit combo.
+ 3. Crouch.
+ 4. Destory an obstacle with a light attack.
+ 5. Destroy an obstacle with a jumping light attack.
+ 6. Perform a crouch attack.
+ 7. Avoid falling into spikes.
+ 8. Pick up a health powerup.
+ 9. Perform a ranged attack to clear an obstacle.
+ 10. Perform a crouching ranged attack.
+ 11. Defeat an enemy that moves from left to right and damages on collision.
+ 12. Defeat an enemy that moves from left to right and shoots on sight.
+ 13. Defeat a small number of both enemies.
+ 14. Defeat a boss with a simple pattern of 1 heavy attack.
+ 15. Perform a heavy attack.
+ 16. Perform a heavy jumping attack.
+ 17. Pick up a potion and use it.
+ 18. Defeat an enemy immune to ranged attack.
+ 19. Defeat an enemy immune to melee attacks.
+ 20. Defeat an enemy who can only be damaged by heavy attacks.
+ 21. Charge your ranged weapon and shoot an obstacle.
+ 22. Defeat enemy who can only be beaten by charge attack.
+ 23. Beat a couple of copies of the previous 3 enemies.
+ 24. Beat a room filled with all regular enemies.
+ 25. Obtain a shield.
+ 26. Block a melee attack.
+ 27. Block a ranged attack.
+ 28. Fight an enemy that has high damage but can be blocked but cannot be countered.
+ 29. Fight an enemy whose heavy attack cannot be blocked.
+ 30. Encounter a boss who can counter your melee attacks.
+ 31. Encounter his second form that can reflect ranged attacks.
+ 32. Counter a melee attack.
+ 33. Reflect a ranged attack.
+ 34. Encounter enemies who explode when they get too close.
+ 35. Encounter ranged enemies who can reflect ranged attacks.
+ 36. Encounter previous enemies together.
+ 37. Obtain a stronger weapon.
+ 38. Encounter a mix of previous 4 enemies.
+ 39. Encounter a boss who teleports behind you and stabs your back.
+ 40. Learn backstab.
+ 41. Encounter an enemy you can only defeat by backstabbing.
+ 42. Learn firebolt.
+ 43. Encounter enemies who can only be killed by magic.
+ 44. Encounter a mix of previous 2 enemies.
+ 45. Learn to wall jump.
+ 46. Encounter an area with ranged enemies where you must wall jump.
+ 47. Learn to shoot ranged weapon while sliding down on wall. (Can charge, can use magic)
+ 48. Encounter a boss you must fight while jumping between walls. Backstab also does a lot of damage.
+ 49. Obtain a suit of armor that makes you slower but immune to light attacks. You can equip/remove this at will.
+ 50. Encounter enemies who try to sneak up and backstab you (through your armor)
+ 51. Clear a room full of basic ranged and melee enemies but also with backstabby enemies.
+ 52. Encounter your rival: with all your skills but repetitive attack patterns. He also has a combo which is performed by mixing melee and ranged buttons with arrow keys. He has a 2 hit combo.
+ 53. Obtain the 2 hit combo.
+
+## Development
+
+```
+npm install
+npm start
+```
+
