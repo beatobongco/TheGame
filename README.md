@@ -105,6 +105,6 @@ Use [ghp-import](https://github.com/davisp/ghp-import) to push `public/` to
 GitHub Pages
 
 ```
-ghp-import -p public
+ghp-import -p -m "Deploy $(git rev-parse HEAD)" public
 ```
 
