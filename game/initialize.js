@@ -1,5 +1,6 @@
 import boot from './boot'
 import level_1 from './level_1'
+import level_2 from './level_2'
 
 //  Create game instance
 const game = new Phaser.Game(
@@ -14,6 +15,7 @@ const game = new Phaser.Game(
 // Add states
 game.state.add('boot', boot)
 game.state.add('level_1', level_1)
+game.state.add('level_2', level_2)
 
 // Start boot state
 game.state.start('boot')
