@@ -3,12 +3,13 @@ import level_1 from './level_1'
 
 //  Create game instance
 const game = new Phaser.Game(
-  '100%',
-  '100%',
+  320,
+  130,
   Phaser.AUTO,
   'game',
   null,
-  true)
+  false,
+  false)
 
 // Add states
 game.state.add('boot', boot)
