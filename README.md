@@ -39,9 +39,6 @@ Levels introduce some kind of new mechanic and/or enemy. They can be permanent o
 Keep in mind these are just guides, there is all the room in the world for change.
 
  1. ~~Walk hero from left to right into door.~~
-
-    > Code and Art: [marksteve](https://github.com/marksteve)
-
  2. Jump hero over obstacle.
  3. Crouch.
  4. Destory an obstacle with a light attack.
@@ -96,6 +93,9 @@ Keep in mind these are just guides, there is all the room in the world for chang
  53. Obtain the 2 hit combo.
 
 ## Development
+
+Each level should come in as a pull request. Writing up a detailed explanation
+of how the level was implemented is highly encouraged.
 
 ```
 npm install
