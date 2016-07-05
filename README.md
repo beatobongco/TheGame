@@ -19,11 +19,11 @@ Level 1 must remain as stick figures.
 
 The Game is set in The World, a heaven-like plane with simple objects and entities, with it slowly being consumed by darkness. Haro wakes up inside his house and finds cryptic glyphs telling him to go right. He grabs a broken sword and sets out on a quest to the right end of the world.
 
-As Haro moves to the right, tiny bits of the world's vague lore is revealed. The world starts out minimalist and well-lighted and very slowly becomes darker and more intricate. Soon, Haro encounters foot soldiers who attack him on sight. These soliders become more and more corrupted by darkness as he pushes right. Hero cannot re-enter doors to his left, as they have been consumed by the Darkness.
+As Haro moves to the right, tiny bits of the world's vague lore is revealed. The world starts out minimalist and well-lighted and very slowly becomes darker and more intricate. Soon, Haro encounters foot soldiers who attack him on sight. These soliders become more and more corrupted by darkness as he pushes right. Haro cannot re-enter doors to his left, as they have been consumed by the Darkness.
 
 Haro periodically encounters Rivald, who communicates through miming a few actions. On their first encounter, Rivald points to the left side of the screen and draws his sword to fight Haro. Once defeated, Rivald retreats to the right side.
 
-Hero also encounters some glyphs which point left. They are the opposite color of the ones in his house. He has the option to interact with them, which makes them fade out.
+Haro also encounters some glyphs which point left. They are the opposite color of the ones in his house. He has the option to interact with them, which makes them fade out.
 
 ## The Characters
 
