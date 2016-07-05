@@ -94,8 +94,9 @@ Keep in mind these are just guides, there is all the room in the world for chang
 
 ## Development
 
-Each level should come in as a pull request. Writing up a detailed explanation
-of how the level was implemented is highly encouraged.
+ * Each level should come in as a pull request.
+ * Writing up a detailed explanation of how the level was implemented is highly encouraged.
+ * Assets and level code can be reused but never altered.
 
 ```
 npm install
