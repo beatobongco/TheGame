@@ -1,12 +1,15 @@
 export default {
 
   preload() {
+    this.load.bitmapFont('monster', 'fonts/monster/monster.png', 'fonts/monster/monster.fnt')
     this.load.spritesheet('haro', 'images/haro.png', 32, 32)
     this.load.image('ground', 'images/ground.png')
     this.load.image('rock', 'images/rock.png')
   },
 
   create() {
+    this.instructions = this.add.bitmapText(8, 8, 'monster', 'PRESS [Z] TO JUMP', 24)
+
     this.physics.startSystem(Phaser.Physics.ARCADE)
     this.world.enableBody = true
 

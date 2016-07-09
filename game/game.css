@@ -11,3 +11,7 @@ body {
 #game {
   width: 100%;
 }
+
+canvas {
+  image-rendering: pixelated;
+}
