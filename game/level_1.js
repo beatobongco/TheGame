@@ -31,7 +31,7 @@ export default {
     } else {
       this.haro.animations.play('idle')
     }
-    if (this.haro.body.x == this.world.centerX) {
+    if (this.haro.body.x === this.world.centerX) {
       this.state.start('level_2')
     }
   },
