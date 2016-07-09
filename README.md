@@ -39,7 +39,7 @@ Levels introduce some kind of new mechanic and/or enemy. They can be permanent o
 Keep in mind these are just guides, there is all the room in the world for change.
 
  1. ~~Walk hero from left to right into door.~~
- 2. Jump hero over obstacle.
+ 2. ~~Jump hero over obstacle.~~ [#1](https://github.com/beatobongco/TheGame/pull/1)
  3. Crouch.
  4. Destory an obstacle with a light attack.
  5. Destroy an obstacle with a jumping light attack.
